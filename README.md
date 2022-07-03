@@ -1,5 +1,3 @@
-![image](https://media.giphy.com/media/3ov9jWu7BuHufyLs7m/giphy.gif)
-
 - [DevOps](#devops)
 - [Docker](#docker)
 - [Rancher](#rancher)
